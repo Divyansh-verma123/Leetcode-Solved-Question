@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 ## String
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
