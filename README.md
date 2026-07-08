@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,4 +50,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
