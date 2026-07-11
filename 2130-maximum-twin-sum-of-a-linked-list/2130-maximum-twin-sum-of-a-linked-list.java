@@ -11,6 +11,8 @@
 class Solution {
     public int pairSum(ListNode head) {
         
+        // isme nodes ka sum nikaal kar dekhna hai ki kisa bda hai jese jese 5+1 and 4+2 ka keya hai but ham linkead list me back nhi jaa sakte tho ham half linkead list ko revere kar lege becoz (In quen mention that  a linked list of size n, where n is even and then find the answer )
+        
         int max =0;
         ListNode slow=head ;
         ListNode fast = head ;
