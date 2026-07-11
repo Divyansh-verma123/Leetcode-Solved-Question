@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -44,15 +45,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -62,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -83,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
