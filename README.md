@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
