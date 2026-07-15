@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
