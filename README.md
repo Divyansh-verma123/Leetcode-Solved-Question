@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0344-reverse-string) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
