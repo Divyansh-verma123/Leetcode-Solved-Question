@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Divyansh-verma123/Leetcode-Solved-Question/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
